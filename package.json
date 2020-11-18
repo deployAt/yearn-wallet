@@ -1,0 +1,10 @@
+{
+  "name": "yearn-wallet",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "nick@deploy.at",
+  "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/contracts": "^3.2.0"
+  }
+}
